@@ -1,9 +1,7 @@
-#Simplified DES
-<b>This is a school project.</b></br>
-<b>This is not a safe cryptography algorithm</b></br>
+<b>Simplified DES:</b></br>
+<b>This is a school project.This is not a safe cryptography algorithm</b></br>
 <b><a href="https://en.wikipedia.org/wiki/Data_Encryption_Standard#Simplified_DES">Info</a></b></br>
-</br>
-How to run from a terminal
+<b>How to run from a terminal:</b>
 </br>
 1)Open terminal</br>
 2)Go change current dir to the directory the jar file is</br>
@@ -13,13 +11,13 @@ How to run from a terminal
 <b>Example</b>
 ```bash
 Encryption
-For Key					1010000010
-And Plaintext			01110010
+For Key			1010000010
+And Plaintext		01110010
 Cyphertext should be	01110111
 ```
 ```bash
 Decryption
-For Key					1010000010
+For Key				1010000010
 And Cyphertext			01110111
 Plaintext should be		01110010
 ```
