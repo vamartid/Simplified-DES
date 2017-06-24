@@ -17,7 +17,7 @@ Cyphertext should be	01110111
 ```
 ```bash
 Decryption
-For Key				1010000010
-And Cyphertext			01110111
-Plaintext should be		01110010
+For Key			1010000010
+And Cyphertext		01110111
+Plaintext should be	01110010
 ```
